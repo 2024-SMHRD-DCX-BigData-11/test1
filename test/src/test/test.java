@@ -7,6 +7,7 @@ public class test {
 		
 		System.out.println("민성 왔다감");
 		
+		System.out.println("ㅎㅇ");
 	}
 	
 }
